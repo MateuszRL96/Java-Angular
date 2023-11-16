@@ -29,11 +29,24 @@ public class MovieController
     } */
     
 
-    @GetMapping("")
+    @GetMapping("/students")
     public List<Movies> getAll()
     {
-        return movieRepostory.getAll();
+        return //"home";
+        movieRepostory.getAll();
     }
+
+     @GetMapping("/kot")
+    public String showIndex() {
+        // Pobierz dane z bazy danych i przekaż do widoku Thymeleaf
+        return "home";
+    }
+
+    
+
+
+
+
 
     @GetMapping("/{id}")
     public Movies getById(@PathVariable("id") int id)
