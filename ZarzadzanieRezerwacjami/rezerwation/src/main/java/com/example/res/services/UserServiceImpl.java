@@ -2,8 +2,6 @@ package com.example.res.services;
 
 import java.util.List;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 import com.example.res.obiekty.Users;
 import com.example.res.repozitory.UsersRepository;
 
@@ -11,7 +9,7 @@ public class UserServiceImpl implements UserServices{
 
     private final UsersRepository usersRepository;
 
-    @Autowired
+    //@Autowired
     public UserServiceImpl(UsersRepository usersRepository)
     {
         this.usersRepository=usersRepository;
