@@ -7,7 +7,7 @@ import com.example.res.obiekty.Users;
 public interface UserServices {
     List<Users> getAllUsers();
     Users getUserById(Long userId);
-    void saveUser(Users users);
+    Users saveUser(Users users);
     void deleteUsers(Long userid);
 
 }
