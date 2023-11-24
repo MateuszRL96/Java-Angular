@@ -1,0 +1,29 @@
+<!-- src/main/resources/templates/add-product.html -->
+
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="">
+<head>
+    <title>Add Product</title>
+</head>
+<body>
+
+<h2>Add Product</h2>
+
+<form action="/products/save" method="post" th:object="${product}">
+    <label for="name">Name:</label>
+    <input id="name" type="text" th:field="*{name}" required/>
+    <br/>
+    <!--
+    <label for="number">Price:</label>
+    <input id="number" type="number" step="0.01" th:field="*{price}" required/>
+    <br/>
+    -->
+    <button type="submit">Save</button>
+</form>
+<!-- To jest komentarz w HTML -->
+<br/>
+
+<a href="/products">Back to Product List</a>
+
+</body>
+</html>

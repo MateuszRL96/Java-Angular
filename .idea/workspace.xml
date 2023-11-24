@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7c091af-732d-41cd-a2bc-fda6a7697acc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/krudy/Crud1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/krudy/Crud1/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/krudy/Crud1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/krudy/Crud1/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/krudy/Crud1/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/krudy/Crud1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/krudy/Crud1/src/main/java/com/example/crud1/Crud1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/krudy/Crud1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/krudy/Crud1/src/test/java/com/example/crud1/Crud1ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/JWTService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCRUD/movielibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCRUD/movielibrary/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/RezerwationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/RezerwationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/kontrolery/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/kontrolery/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Historia.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Historia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/ObiektyRezerwacji.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/ObiektyRezerwacji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/PotwierdzenieRezerwacji.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/PotwierdzenieRezerwacji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Powiadomienia.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Powiadomienia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Rezerwacje.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Rezerwacje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/RezerwacjeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/RezerwacjeSevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/UserServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/UserServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security" beforeDir="false" afterPath="$PROJECT_DIR$/security" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/security/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/example/security/ConfigSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/ConfigSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2Yb1C4bvsdPknhUT2KY1iHw4pnx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;nowa__galaz&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/matik/Documents/GitHub/Java-Angular&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovielibraryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="movielibrary" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.movielibrary.MovielibraryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RezerwationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="rezerwation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.res.RezerwationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.security.SecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7c091af-732d-41cd-a2bc-fda6a7697acc" name="Changes" comment="" />
+      <created>1700779333511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700779333511</updated>
+      <workItem from="1700779334496" duration="4732000" />
+      <workItem from="1700784288380" duration="893000" />
+      <workItem from="1700837017835" duration="597000" />
+      <workItem from="1700857150816" duration="229000" />
+      <workItem from="1700858386152" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:javax.persistence:javax.persistence-api" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:karma" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:@angular/core" />
+    <option featureType="dependencySupport" implementationName="java:org.thymeleaf:thymeleaf" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+  </component>
+</project>
