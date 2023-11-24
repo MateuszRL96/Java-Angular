@@ -1,13 +1,11 @@
 package com.example.res.obiekty;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import javax.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
+import java.util.Date;
 
 @Entity
 @Table(name = "Powiadomienia")
@@ -23,6 +21,6 @@ public class Powiadomienia {
     private int idUzytkownika;
     private TypPowiadomien typPowiadomien;
     private String tresc;
-    private Data dataWyslania;
+    private Date dataWyslania;
     
 }

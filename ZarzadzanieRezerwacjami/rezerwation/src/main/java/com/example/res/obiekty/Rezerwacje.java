@@ -1,13 +1,11 @@
 package com.example.res.obiekty;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import javax.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
+import java.util.Date;
 
 @Data
 @NoArgsConstructor
@@ -20,10 +18,10 @@ public class Rezerwacje {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
-    private Data dataStart;
-    private Data dataEnd;
-    //private int idUzytkownika -> z Users
-    //private int idObiektRezerwacji ->z ObiektyRezerwacji
+    private Date dataStart;
+    private Date dataEnd;
+    private int idUzytkownika;// -> z Users
+    private int idObiektRezerwacji;// ->z ObiektyRezerwacji
 
 
 

@@ -2,6 +2,7 @@ package com.example.res.kontrolery;
 
 import java.util.List;
 
+import com.example.res.services.UserServices;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -12,21 +13,24 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.res.obiekty.Users;
-import com.example.res.services.UserServices;
 
 @RestController
 @RequestMapping("/api/users")
 public class UserController {
 
 
-    private final UserServices userServices;
+    public final UserServices userServices;
 
     //@Autowired
-    public UserController(UserServices userServices)
-    {
+    public UserController(UserServices userServices) {
         this.userServices = userServices;
     }
 
+
+
+/////////////////////////////////
+
+///////////////
     @GetMapping
     public ResponseEntity<List<Users>> getAllUsers()
     {

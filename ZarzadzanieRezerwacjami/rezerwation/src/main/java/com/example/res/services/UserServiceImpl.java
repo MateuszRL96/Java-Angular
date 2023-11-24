@@ -4,12 +4,15 @@ import java.util.List;
 
 import com.example.res.obiekty.Users;
 import com.example.res.repozitory.UsersRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
+@Service
 public class UserServiceImpl implements UserServices{
 
     private final UsersRepository usersRepository;
 
-    //@Autowired
+    @Autowired
     public UserServiceImpl(UsersRepository usersRepository)
     {
         this.usersRepository=usersRepository;
@@ -26,8 +29,8 @@ public class UserServiceImpl implements UserServices{
     }
 
     @Override
-    public void saveUser(Users users) {
-        usersRepository.save(users);
+    public Users saveUser(Users users) {
+        return usersRepository.save(users);
     }
 
     @Override
