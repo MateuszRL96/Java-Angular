@@ -5,37 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7c091af-732d-41cd-a2bc-fda6a7697acc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/krudy/Crud1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/krudy/Crud1/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/krudy/Crud1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/krudy/Crud1/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/krudy/Crud1/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/krudy/Crud1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/krudy/Crud1/src/main/java/com/example/crud1/Crud1Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/krudy/Crud1/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/krudy/Crud1/src/test/java/com/example/crud1/Crud1ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/JWTService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityUserDetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringCRUD/movielibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCRUD/movielibrary/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/RezerwationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/RezerwationApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/kontrolery/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/kontrolery/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Historia.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Historia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/ObiektyRezerwacji.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/ObiektyRezerwacji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/PotwierdzenieRezerwacji.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/PotwierdzenieRezerwacji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Powiadomienia.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Powiadomienia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Rezerwacje.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Rezerwacje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/obiekty/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/RezerwacjeServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/RezerwacjeSevice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/UserServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/java/com/example/res/services/UserServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ZarzadzanieRezerwacjami/rezerwation/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/security" beforeDir="false" afterPath="$PROJECT_DIR$/security" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/security/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/example/security/ConfigSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/ConfigSecurity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityUserDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepbystep/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stepbystep/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepbystep/demo/target/classes/com/example/demo/CrudStepByStepApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepbystep/demo/target/classes/com/example/demo/configuration/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepbystep/demo/target/classes/com/example/demo/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepbystep/demo/target/classes/com/example/demo/entity/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepbystep/demo/target/classes/com/example/demo/repository/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepbystep/demo/target/classes/com/example/demo/services/ProductService.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +33,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
@@ -67,8 +46,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;nowa__galaz&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/matik/Documents/GitHub/Java-Angular&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/matik/Documents/GitHub/Java-Angular/stepbystep&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -138,6 +117,8 @@
       <workItem from="1700837017835" duration="597000" />
       <workItem from="1700857150816" duration="229000" />
       <workItem from="1700858386152" duration="71000" />
+      <workItem from="1701377548169" duration="318000" />
+      <workItem from="1701378799743" duration="344000" />
     </task>
     <servers />
   </component>
