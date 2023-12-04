@@ -2,7 +2,15 @@ package com.example.demo.entity;
 
 
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
+@Setter
+@Getter
+@NoArgsConstructor
+@AllArgsConstructor
 @Entity
 public class Product {
 
@@ -14,7 +22,7 @@ public class Product {
     private Long price;
     private int stactQuantity;
     @ManyToOne
-    @JoinColumn(name = "categoruId")
+    @JoinColumn(name = "categoryId")
     private Category category;
 
 }
