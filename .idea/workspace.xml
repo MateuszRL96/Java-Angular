@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7c091af-732d-41cd-a2bc-fda6a7697acc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/JWTService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/security" beforeDir="false" afterPath="$PROJECT_DIR$/security" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/security/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/example/security/ConfigSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/ConfigSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/UserEntityRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stepbystep/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stepbystep/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stepbystep/demo/target/classes/com/example/demo/CrudStepByStepApplication.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/stepbystep/demo/target/classes/com/example/demo/configuration/WebConfig.class" beforeDir="false" />
@@ -47,7 +54,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/matik/Documents/GitHub/Java-Angular/stepbystep&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/matik/Documents/GitHub/Java-Angular&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -119,6 +126,8 @@
       <workItem from="1700858386152" duration="71000" />
       <workItem from="1701377548169" duration="318000" />
       <workItem from="1701378799743" duration="344000" />
+      <workItem from="1701956718732" duration="322000" />
+      <workItem from="1701957209078" duration="372000" />
     </task>
     <servers />
   </component>

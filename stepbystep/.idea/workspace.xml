@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="569a38b0-e2dd-4c44-a309-d4794aae8c37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/configuration/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/templates/add-product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/templates/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../security" beforeDir="false" afterPath="$PROJECT_DIR$/../security" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/CrudStepByStepApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/configuration/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/entity/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/repository/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/services/ProductService.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +35,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2YdbifKYggop3lXaEWqlzTCVYyj" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -57,8 +59,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "nowa__galaz",
-    "last_opened_file_path": "C:/Users/matik/Documents/GitHub/Java-Angular/stepbystep",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/matik/Documents/GitHub/Java-Angular/listopad",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,7 +85,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700858534057</updated>
-      <workItem from="1700858536470" duration="6140000" />
+      <workItem from="1700858536470" duration="6772000" />
+      <workItem from="1701371450232" duration="718000" />
+      <workItem from="1701378672760" duration="57000" />
+      <workItem from="1701379168212" duration="254000" />
     </task>
     <servers />
   </component>
